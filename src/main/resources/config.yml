@@ -1,0 +1,7 @@
+waves: 10
+wave-interval-seconds: 30
+zombies-first-wave: 3
+zombies-per-wave: 2
+reward-material: DIAMOND
+reward-amount: 10
+reward-xp: 200
