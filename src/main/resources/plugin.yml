@@ -1,0 +1,11 @@
+name: DefendVillage
+version: 1.0.0
+main: com.example.dv.DVPlugin
+api-version: '1.21'
+author: You
+description: Defend the village from zombies
+
+commands:
+  dv:
+    description: DefendVillage commands
+    usage: /dv <help|create|pos1|pos2|addvillager|addspawn|start|stop|join|leave|invite|list>
